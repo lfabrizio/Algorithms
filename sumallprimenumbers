@@ -1,0 +1,14 @@
+function sumPrimes(num) {
+  // create a function
+  // number only divisible by one or two
+  var prime = 0;
+  // create a loop to see if less than or equal to given number
+
+  for(var i = 0; i <= prime.length; i++){
+    if(prime % 2 || )
+  }
+
+  return num;
+}
+
+sumPrimes(10);

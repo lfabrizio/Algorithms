@@ -1,6 +1,8 @@
 // factorialize 
+// recusion solution 
 
 function factorialize(num) {
+    // sets a condition to stop the program 
     if(num === 0){
       return 1;
     }
